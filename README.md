@@ -27,6 +27,8 @@ class EmptyClass {
 var emptyClassObject = EmptyClass()
 ```
 
+
+**Class Example**
 ```
 class Class2 {
     var property1 = 0
