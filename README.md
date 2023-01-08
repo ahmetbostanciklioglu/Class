@@ -100,7 +100,7 @@ print(copyingObject1.property)
 ```
 
 
-**Class Deinitializers**
+**Class Deinitializers:**
 ```
 class Deinitializers {
     var property = "Ahmet"
